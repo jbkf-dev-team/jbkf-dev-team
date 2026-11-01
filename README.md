@@ -4,6 +4,6 @@ This account builds and runs the software of the [Jacobrakai Foundation](https:/
 
 - Projects: [jacobrakaiFoundation](https://github.com/jacobrakaiFoundation)
 - Website: [jacobrakai.org](https://jacobrakai.org)
-- Security contact: jacob@jacobrakai.org
+- Security contact: security@jacobrakai.org
 
 [`pulse`](https://github.com/jbkf-dev-team/pulse) is the heartbeat for the honeypot sensors. Its commits are liveness signals, not development work.
